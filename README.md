@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: Developer at [Elife](https://elife.com.br/), I'm currently working with Python and Java
+- :computer: Developer at [K2 Patterning Solutions](https://k2partnering.com/), I'm currently working with Python and Java in cloud solutions on AWS.
 - :books: I’m currently learning Python, C, Java and Javascript
 - 📫 How to reach me: alex_emanuel27@hotmail.com or https://www.linkedin.com/in/alex-emanuel-12b920116/
 
